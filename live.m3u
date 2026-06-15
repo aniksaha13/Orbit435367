@@ -46,7 +46,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 http://172.19.17.3:8090/hls/AndPictureHD.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/UxeIiP7.jpeg" group-title="Hindi",Starplus HD 📺 
 http://172.19.17.3:8090/hls/StarPlusHD.m3u8
-#EXTINF:-1 tvg-id="122" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" group-title="Hindi",Sonymaxhd 📺 
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/EAQdpOa.png" group-title="Hindi",Sonymaxhd 📺 
 http://172.19.17.3:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 tvg-id="65" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png" group-title="Hindi",Colors HD 📺 
 http://172.19.17.3:8090/hls/ColorsHD.m3u8
