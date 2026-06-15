@@ -60,7 +60,7 @@ http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
 http://172.19.17.3:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="97" tvg-logo="https://i.imgur.com/4N1ZVzG.png" group-title="India Bangla",Colors Bangla HD 📺 
 http://172.19.17.3:8090/hls/ColorsBanglaHD.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="India Bangla",Jalsha movies HD 📺 
+#EXTINF:-1 tvg-id="93" tvg-logo="https://i.imgur.com/tlwUoyF.jpeg" group-title="India Bangla",Jalsha movies HD 📺 
 http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 tvg-id="94" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="India Bangla",Sony aatt 📺 
 http://172.19.17.3:8090/hls/SonyAtth.m3u8
