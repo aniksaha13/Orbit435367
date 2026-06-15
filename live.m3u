@@ -37,7 +37,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy  📺
 http://172.19.17.3:8090/hls/somoytv.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Channel 1  📺
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/iQI3XF0.png" group-title="News",Channel 1  📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
