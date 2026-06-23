@@ -96,16 +96,6 @@ http://172.19.17.3:8090/hls/SonyTen2hd.m3u8
 http://172.19.17.3:8090/hls/SonyTen3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MCM6ddM.png" group-title="Sports",Beinsports1ENG 📺
 http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-1 FiFa-2026
-https://cdn-tt.pages.dev/ch1.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-2 FiFa-2026
-https://cdn-tt.pages.dev/ch2.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-3 FiFa-2026
-https://cdn-tt.pages.dev/ch3.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-4 FiFa-2026
-https://cdn-tt.pages.dev/ch4.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-5 FiFa-2026
-https://cdn-tt.pages.dev/ch5.m3u8
 
 
 
